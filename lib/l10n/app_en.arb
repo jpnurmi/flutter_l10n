@@ -1,0 +1,16 @@
+{
+  "tryRelease": "Try {release}",
+  "@tryRelease": {
+    "type": "text",
+    "placeholders": {
+      "release": {}
+    }
+  },
+  "tryRELEASE": "Try {RELEASE}",
+  "@tryRELEASE": {
+    "type": "text",
+    "placeholders": {
+      "RELEASE": {}
+    }
+  }
+}
